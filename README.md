@@ -2,7 +2,7 @@
 
 Can not gunzip some gz files in WebContainer.
 
-This `gz` file is kuromoji.js's dictionary file.
+This `gz` files are kuromoji.js's dictionary file.
 
 - https://github.com/takuyaa/kuromoji.js/tree/master/dict
 
