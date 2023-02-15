@@ -2,6 +2,10 @@
 
 Can not gunzip [base.data.gz](./base.data.gz)
 
+This `gz` file is kuromoji.js's dictionary file.
+
+- https://github.com/takuyaa/kuromoji.js/tree/master/dict
+
 ## Usage
 
     npm test
