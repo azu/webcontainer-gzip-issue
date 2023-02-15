@@ -1,0 +1,28 @@
+{
+  "name": "webcontainer-gzip-issue",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/azu/webcontainer-gzip-issue/tree/master/",
+  "bugs": {
+    "url": "https://github.com/azu/webcontainer-gzip-issue/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/webcontainer-gzip-issue.git"
+  },
+  "license": "MIT",
+  "author": "azu",
+  "main": "lib/webcontainer-gzip-issue.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "files": [
+    "bin/",
+    "lib/",
+    "src/"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
