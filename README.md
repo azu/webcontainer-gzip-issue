@@ -1,6 +1,6 @@
 # webcontainer-gzip-issue
 
-Can not gunzip [base.data.gz](./base.data.gz)
+Can not gunzip some gz files in WebContainer.
 
 This `gz` file is kuromoji.js's dictionary file.
 
