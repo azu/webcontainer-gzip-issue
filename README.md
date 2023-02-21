@@ -8,6 +8,7 @@ This `gz` files are kuromoji.js's dictionary file.
 
 ## Usage
 
+    npm ci
     npm test
 
 ## Changelog
